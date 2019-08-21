@@ -38,7 +38,7 @@ Processing Symposium Workshop 2015.
 
 > [8] https://snap.stanford.edu/data/
 
-> https://github.com/puckbee/CVR
+> [9] https://github.com/puckbee/CVR
 
-> https://github.com/chaihf/BFS-OpenMP
+> [10] https://github.com/chaihf/BFS-OpenMP
 
