@@ -1,0 +1,13 @@
+git clone https://....
+//cd to the repository
+//copy the file you want to upload
+git add .
+git commit -m "filename.extension"
+
+//if asked 
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git commit -m "filename.extension"
+git push origin master
+
+//Done
