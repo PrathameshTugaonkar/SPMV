@@ -8,16 +8,16 @@ Above code explains the three different pardigms of the graphs.
 ## References
 
 > [1] Paul Burkhardt, “Optimal algebraic Breadth-First Search for sparse graphs”.
-https://arxiv.org/pdf/1906.03113.pdf
+> https://arxiv.org/pdf/1906.03113.pdf
 
-[2] Kepner et al., “Mathematical Foundations of the GraphBLAS”.
-https://people.eecs.berkeley.edu/~aydin/GraphBLAS-Math.pdf
+> [2] Kepner et al., “Mathematical Foundations of the GraphBLAS”.
+> https://people.eecs.berkeley.edu/~aydin/GraphBLAS-Math.pdf
 
-[3] Maciej Besta et al. “SlimSell: A Vectorizable Graph Representation for Breadth-First
+> [3] Maciej Besta et al. “SlimSell: A Vectorizable Graph Representation for Breadth-First
 Search, the 31st IEEE International Parallel & Distributed Processing Symposium
 (IPDPS'17).
 
-[4] A. Buluc and K. Madduri. “Graph partitioning for scalable distributed graph computations”
+> [4] A. Buluc and K. Madduri. “Graph partitioning for scalable distributed graph computations”
 Graph Partitioning and Graph Clustering, 588:83, 2013.
 
 [5] Aydin Buluç, Kamesh Madduri, Parallel breadth-first search on distributed memory
