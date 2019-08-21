@@ -12,6 +12,14 @@ Above code explains the three different pardigms of the graphs.
   
 * Breadth First Search Traversal is predominantly used method for traversing. 
 
+ <!--- just --->
+ 
+ 
+### How to run:
+- cd SPMV/code  
+- make 
+- ./executable [dataset] [vector] [number_of_threads] 
+
 ## References
 
 > [1] Paul Burkhardt, “Optimal algebraic Breadth-First Search for sparse graphs”.
