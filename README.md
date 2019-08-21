@@ -4,6 +4,13 @@ Above code explains the three different pardigms of the graphs.
 * Breadth First Strategy
 * Parallellism using OpenMP
 
+### Linear Algebra 
+
+* It has different implementations like:
+  - SpMV (Sparse Matrix-Vector Multiplication)
+  - SpMSpV (Sparse Matrix-Sparse Vector Multiplication)
+  
+* Breadth First Search Traversal is predominantly used method for traversing. 
 
 ## References
 
@@ -20,14 +27,18 @@ Search, the 31st IEEE International Parallel & Distributed Processing Symposium
 > [4] A. Buluc and K. Madduri. “Graph partitioning for scalable distributed graph computations”
 Graph Partitioning and Graph Clustering, 588:83, 2013.
 
-[5] Aydin Buluç, Kamesh Madduri, Parallel breadth-first search on distributed memory
+> [5] Aydin Buluç, Kamesh Madduri, Parallel breadth-first search on distributed memory
 systems. SC 2011: 65:1-65:12
 
-[6] Carl Yang, Yangzihao Wang, and John D. Owens, Fast Sparse Matrix and Sparse Vector
+> [6] Carl Yang, Yangzihao Wang, and John D. Owens, Fast Sparse Matrix and Sparse Vector
 Multiplication Algorithm on the GPU, IEEE International Parallel and Distributed
 Processing Symposium Workshop 2015.
 
-[7] Kepner, Jeremy & Bader, David & Buluç, Aydin & Gilbert, John & Mattson, Tim & Meyerhenke, Henning. (2015). Graphs, matrices, and the GraphBLAS: Seven good reasons. Procedia Computer Science. 51. 10.1016/j.procs.2015.05.353. 
+> [7] Kepner, Jeremy & Bader, David & Buluç, Aydin & Gilbert, John & Mattson, Tim & Meyerhenke, Henning. (2015). Graphs, matrices, and the GraphBLAS: Seven good reasons. Procedia Computer Science. 51. 10.1016/j.procs.2015.05.353. 
 
-[8] https://snap.stanford.edu/data/
+> [8] https://snap.stanford.edu/data/
+
+> https://github.com/puckbee/CVR
+
+> https://github.com/chaihf/BFS-OpenMP
 
