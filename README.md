@@ -1,4 +1,8 @@
 # SPMV
+Above code explains the three different pardigms of the graphs. 
+* Use of linear algebra for graph traversal.
+* Breadth First Strategy
+* Parallellism 
 
 ## References
 
