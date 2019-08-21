@@ -2,11 +2,12 @@
 Above code explains the three different pardigms of the graphs. 
 * Use of linear algebra for graph traversal.
 * Breadth First Strategy
-* Parallellism 
+* Parallellism using OpenMP
+
 
 ## References
 
-[1] Paul Burkhardt, “Optimal algebraic Breadth-First Search for sparse graphs”.
+> [1] Paul Burkhardt, “Optimal algebraic Breadth-First Search for sparse graphs”.
 https://arxiv.org/pdf/1906.03113.pdf
 
 [2] Kepner et al., “Mathematical Foundations of the GraphBLAS”.
