@@ -12,7 +12,7 @@ Above code explains the three different pardigms of the graphs.
   
 * Breadth First Search Traversal is predominantly used method for traversing. 
 
- <!--- just --->
+
  
  
 ### How to run:
