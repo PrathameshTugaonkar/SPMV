@@ -2,7 +2,7 @@
 Above code explains the three different pardigms of the graphs. 
 * Use of linear algebra for graph traversal.
 * Breadth First Strategy
-* Parallellism using OpenMP
+* Parallelism using OpenMP
 
 ### Linear Algebra 
 
