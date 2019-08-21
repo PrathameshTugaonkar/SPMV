@@ -37,7 +37,9 @@ from s to v, or -1 if u is unreachable.
 15:end for
 
 16: end for
-#Refernces
+
+##Refernces
+
 [1] Paul Burkhardt, “Optimal algebraic Breadth-First Search for sparse graphs”.
 https://arxiv.org/pdf/1906.03113.pdf
 [2] Kepner et al., “Mathematical Foundations of the GraphBLAS”.
